@@ -1,5 +1,6 @@
 # SPAM_Classification
-SPAM Classification app using Streamlit.<br/>
+SPAM Classification app using Streamlit which is Open Source Python Library.<br/>
+Data Science Web App which **predict** the whether the given message is SPAM or not.<br/>
 To deploy this app locally use the command:<br/>
 ***streamlit run webapp.py***
 <br/><br/>
